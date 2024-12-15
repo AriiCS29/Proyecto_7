@@ -1,4 +1,4 @@
-# Proyecto_7
+# Proyecto_ Clase 7
 
 ## Instrucciones
 Abrir archivo index.html
